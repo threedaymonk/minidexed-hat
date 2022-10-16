@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 2.75,
+          "height": 2.75,
+          "width": 2.75
         },
         "silk_line_width": 0.15239999999999998,
         "silk_text_italic": false,
@@ -55,7 +55,11 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|53236943|108429999|06a35444-76d8-4359-935d-974cfbbf806d|204297f4-5aca-40d9-a191-5de15ccf0fad",
+        "courtyards_overlap|53236943|108429999|204297f4-5aca-40d9-a191-5de15ccf0fad|06a35444-76d8-4359-935d-974cfbbf806d",
+        "courtyards_overlap|53647347|56580001|204297f4-5aca-40d9-a191-5de15ccf0fad|3d009711-c4ab-4638-8cc8-8cf2bb57c957"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
