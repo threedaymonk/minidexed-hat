@@ -22,3 +22,6 @@ make my own encoder boards with better debouncing.
 The PCB dimensions are based on [Seth Hillbrand's
 template](https://github.com/sethhillbrand/kicad_templates) for a Raspberry Pi
 hat.
+
+With an appropriate display, this board should also work with
+[mt32-pi](https://github.com/dwhinham/mt32-pi), but I have not tested it.
