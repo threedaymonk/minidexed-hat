@@ -1,5 +1,7 @@
 # MiniDexed Hat for Raspberry Pi
 
+![Board mounted on Raspberry Pi 4](./minidexed-hat.jpg)
+
 This aims to make the construction of a
 [MiniDexed](https://github.com/probonopd/MiniDexed) a little easier.
 
