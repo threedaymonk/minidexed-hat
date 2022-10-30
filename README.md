@@ -27,3 +27,8 @@ hat.
 
 With an appropriate display, this board should also work with
 [mt32-pi](https://github.com/dwhinham/mt32-pi), but I have not tested it.
+
+## Warning
+
+Set the voltage on the converter **before** soldering the audio interface in
+place or installing the hat on the Pi. I recommend around 5.2V.
